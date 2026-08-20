@@ -1,6 +1,9 @@
 # Trafalgar Healthcare Landing Page
 
-A responsive healthcare landing page built with React and Tailwind CSS, based on the provided Trafalgar Figma design reference.
+A responsive healthcare landing page built with React and Tailwind CSS, based on the provided Trafalgar Figma design reference. 
+
+Live Link : 
+https://trafalgar-landing-page.vercel.app/
 
 ## 📌 Project Overview
 
